@@ -1,0 +1,47 @@
+{
+  "name": "ODTÜ Blockchain: 101 Etkinliği",
+  "description": "Bu NFT ODTÜ Blockchain Topluluğunun 2025 yılında düzenlediği ilk etkinlik olan Blockchain101 ve WEB3-101 etkinliğine katılan kişilere hatıra olarak verilmiştir.",
+  "image": "ipfs://QmRvSoppQ5MKfsT4p5Snheae1DG3Af2NhYXWpKNZBvz2Eo/solidity_bootcamp.png",
+  "external_url": "https://www.linkedin.com/company/odtublockchain/",
+  "attributes": [
+    {
+      "trait_type": "Event",
+      "value": "ODTÜ Blockchain 101"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-10-17"
+    },
+    {
+      "trait_type": "Organization",
+      "value": "ODTÜ Blockchain Topluluğu"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Hatıra NFT"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Eğitim"
+    },
+    {
+      "trait_type": "Location",
+      "value": "ODTÜ Kampüsü"
+    },
+    {
+      "trait_type": "Duration",
+      "value": "2 Saat"
+    },
+    {
+      "trait_type": "Participants",
+      "value": "100+"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "background_color": "1a1a1a",
+  "animation_url": null,
+  "youtube_url": null
+}
